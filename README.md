@@ -6,5 +6,5 @@ apabila gambar tidak keluar gunaan vpn karena penyedia api https://ligaindonesia
 logo team menggunakan alamat imgur.com yang mana situs tersebut di block kominfo
 
 <p align="center">
-  <img src="[your_relative_path_here_number_2_large_nam](https://i.postimg.cc/P5Y7W3g9/photo-6233215689871703414-y.jpg" width="350" alt="accessibility">
+  <img src="https://i.postimg.cc/P5Y7W3g9/photo-6233215689871703414-y.jpg" width="350" alt="accessibility">
 </p>
